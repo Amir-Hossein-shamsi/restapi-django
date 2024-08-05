@@ -6,5 +6,6 @@ A low dependency and really simple Restapi that use some technology such as Cele
 1. Docker and Docker-compose 
 2. Django and djangorestframework  
 3. implementing an authentication System  
-4. implementing Celery and Redis 
+4. implementing Celery and Redis
+5. Postgres as DataBase
 
